@@ -138,7 +138,7 @@ header nav{
     transition: .5s;
 }
 
-#main-content #product-image .changing{
+#main-content #product-image.changing{
     opacity: 0.5;
 }
 
