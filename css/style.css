@@ -226,3 +226,10 @@ header nav{
         font-size: 3rem;
     }
 }
+
+footer{
+    background-color: #1d1d1d;
+    padding: 1rem;
+    color: #ccc;
+    font-size: 0.75rem;
+}
